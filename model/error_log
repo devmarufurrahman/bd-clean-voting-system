@@ -1,0 +1,18 @@
+[12-Dec-2023 19:42:12 Asia/Dacca] PHP Fatal error:  Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
+[12-Dec-2023 19:42:16 Asia/Dacca] PHP Fatal error:  Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
+[12-Dec-2023 19:42:22 Asia/Dacca] PHP Fatal error:  Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
+[12-Dec-2023 19:44:38 Asia/Dacca] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php:18
+Stack trace:
+#0 /home/winkytec/bdclean.winkytech.com/backend/apps/controller/model/logincheck.php(4): my_class->__construct()
+#1 {main}
+  thrown in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
+[12-Dec-2023 19:44:46 Asia/Dacca] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php:18
+Stack trace:
+#0 /home/winkytec/bdclean.winkytech.com/backend/apps/controller/model/logincheck.php(4): my_class->__construct()
+#1 {main}
+  thrown in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
+[12-Dec-2023 19:44:49 Asia/Dacca] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php:18
+Stack trace:
+#0 /home/winkytec/bdclean.winkytech.com/backend/apps/controller/model/logincheck.php(4): my_class->__construct()
+#1 {main}
+  thrown in /home/winkytec/bdclean.winkytech.com/backend/apps/controller/settings/db_con.php on line 18
